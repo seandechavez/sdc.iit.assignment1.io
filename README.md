@@ -1,1 +1,1 @@
-# sdc.iit.assignment1.io
+# sean de chavez assignment 1: my profile
