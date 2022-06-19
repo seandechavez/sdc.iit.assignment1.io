@@ -4,7 +4,7 @@
 
 <h1>IIT Assignment 1: My Profile</h1>
 <h2><u>Personal Information</u></h2>
-<p><b>Name:</b> Sean Antonio Miguel Reyes De Chavez</p> <img src="me.jpg" width=“154” height=“238”>
+<p><b>Name:</b> Sean Antonio Miguel Reyes De Chavez</p> <img src="me.jpg" width=“152” height=“236”>
 <p><b>Student Number:</b> s3960496</p>
 <p><b>Student Email Address:</b> s3964096@student.rmit.edu.au</p>
 <p><b>GitHub Public Repository URL:</b> <a href="https://github.com/seandechavez/sdc.iit.assignment1.io"> Github Repository </a></p>
