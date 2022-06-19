@@ -60,5 +60,11 @@ The app would give users tips on practicing mindfulness and positivity to encour
 <p>The skills required to create my app are frontend development, backend development, UX and UI design, and general IT knowledge.</p>
 <p><b><u>Outcome</u></b></p>
 <p>If the project is successful I hope the app can teach gamers open mindedness and empathy so that gamers can have a space online where positivity is the norm and where queer gamers and gamers of colour, and women in gaming can exist without getting random hateful comments. I hope the app can be used for fun, positive interactions, making meaningful connections and growing communities.</p>
+
+<h2><u>Job Ad screenshots in case link expires</u></h2>
+<img src=“job_ad1” style="width:152px;height:235px;">
+<img src=“job_ad2” style="width:152px;height:235px;">
+<img src=“job_ad3” style="width:152px;height:235px;">
+  
 </body>
 </html>
