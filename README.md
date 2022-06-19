@@ -16,15 +16,15 @@
   
 <h2><u>Personality Profile</u></h2>
 <p><b>MBTI:</b></p>
-<p style ="color:ForestGreen;"> INFP-T </p> 
+  <p style ="color:ForestGreen;"> INFP-T </p> 
 <p><b>Learning Style:</b></p>
 <p>Visual/Tactile</p> 
 <p><b>Big Five:</b></p>
-<p style = "color:Yellow;"> Openness – 94%
-<p style = "color:Purple;"> Conscientiousness – 15%
-<p style = "color:Red;"> Extraversion – 10%
-<p style = "color:Green;"> Agreeableness – 90%
-<p style = "color:Blue;"> Neuroticism – 54%
+  <p style = "color:Yellow;"> Openness – 94% </p>
+  <p style = "color:Purple;"> Conscientiousness – 15% </p>
+  <p style = "color:Red;"> Extraversion – 10% </p>
+  <p style = "color:Green;"> Agreeableness – 90% </p> 
+  <p style = "color:Blue;"> Neuroticism – 54% </p>
 
   
 </body>
